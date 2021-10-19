@@ -23,5 +23,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin-top: 50px;
+  margin-bottom: 30px;
 }
 </style>
